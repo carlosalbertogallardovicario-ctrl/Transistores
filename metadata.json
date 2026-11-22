@@ -1,0 +1,6 @@
+{
+  "name": "EFA Oretana - Transistores y Diagnóstico SMR",
+  "description": "Tarjetas didácticas, mapas interactivos de funcionamiento y simulador de fallas técnicas de transistores (BJT y MOSFET) para 1º CFGM SMR con gamificación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
